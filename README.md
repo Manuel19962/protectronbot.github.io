@@ -1,6 +1,6 @@
 # Welcome to the ProtectronBot Documentation!
 
-This guide will teach you how to install and configure [@protectronbot](http://t.me/protectronbot) for your Telegram group. We'll also explain all of the bot's features. Please join our channel: [https://t.me/protectronnews](https://t.me/protectronnews)
+This guide will teach you how to install and configure [@protectronbot](http://t.me/protectronbot) for your Telegram group. We'll also explain all of the bot's features.
 
 ## What ProtectronBot Can Do:
 
